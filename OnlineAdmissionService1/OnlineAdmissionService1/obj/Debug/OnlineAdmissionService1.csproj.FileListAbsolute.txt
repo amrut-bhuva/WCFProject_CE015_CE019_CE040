@@ -1,0 +1,7 @@
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\bin\Debug\OnlineAdmissionService1.dll.config
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\bin\Debug\OnlineAdmissionService1.dll
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\bin\Debug\OnlineAdmissionService1.pdb
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\obj\Debug\OnlineAdmissionService1.csproj.CoreCompileInputs.cache
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\obj\Debug\OnlineAdmissionService1.dll
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\obj\Debug\OnlineAdmissionService1.pdb
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\OnlineAdmissionService1\obj\Debug\OnlineAdmissionService1.csprojAssemblyReference.cache

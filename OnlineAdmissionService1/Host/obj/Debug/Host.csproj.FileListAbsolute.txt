@@ -1,0 +1,13 @@
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\StuDB.mdf
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\StuDB_log.ldf
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\Host.exe.config
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\Host.exe
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\Host.pdb
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\obj\Debug\Host.exe
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\obj\Debug\Host.pdb
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\OnlineAdmissionService1.dll
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\OnlineAdmissionService1.pdb
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\bin\Debug\OnlineAdmissionService1.dll.config
+D:\DDIT CE\Sem 6\SOC\Project\OnlineAdmissionService1\Host\obj\Debug\Host.csproj.CopyComplete
